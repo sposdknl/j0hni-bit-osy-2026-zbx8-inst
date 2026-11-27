@@ -1,1 +1,3 @@
-.vagrantfile
+# Vagrant
+.vagrant/
+Vagrantfile
